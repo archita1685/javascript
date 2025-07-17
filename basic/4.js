@@ -1,0 +1,11 @@
+// let score=null;
+// // let a=Number(score);
+// console.log(typeof(score));
+// console.log(score);
+let score="33abc";
+let a=Number(score);
+console.log(typeof(a));
+console.log(a);
+let b="nbvgc78";
+let num=Boolean(b);
+console.log(num);
